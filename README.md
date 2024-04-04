@@ -1,5 +1,7 @@
 # DataRocket: Turbocharged Data Cleaning and Parsing
 
+![DataRocket Logo]()
+
 DataRocket is a high-performance data cleaning and parsing application designed to efficiently process large datasets using GPU acceleration. With its intuitive interface and powerful GPU-accelerated algorithms, DataRocket enables users to clean, organize, and parse data with unprecedented speed and efficiency.
 
 ## Features
